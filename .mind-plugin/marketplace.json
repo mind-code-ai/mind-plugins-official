@@ -1,0 +1,14 @@
+{
+  "name": "mind-plugins-official",
+  "owner": { "name": "thebrightondev" },
+  "description": "Official plugin marketplace for Mind — compatible with Claude Code and Augment Code",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "my-first-plugin",
+      "source": "./plugins/my-first-plugin",
+      "description": "A greeting plugin to learn the basics",
+      "version": "1.0.0"
+    }
+  ]
+}
