@@ -16,6 +16,12 @@ Then install any plugin listed below:
 /plugin install my-first-plugin@mind-plugins-official
 ```
 
+Plugin commands are namespaced by plugin name — the example above adds:
+
+```
+/my-first-plugin:greet Ada
+```
+
 ## Plugins
 
 | Plugin | Description |

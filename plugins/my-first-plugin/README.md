@@ -5,7 +5,7 @@ Use it as the template for your own plugins.
 
 ```
 /plugin install my-first-plugin@mind-plugins-official
-/greet Ada
+/my-first-plugin:greet Ada
 ```
 
 ## Layout
@@ -13,5 +13,5 @@ Use it as the template for your own plugins.
 - `.mind-plugin/plugin.json` — Mind's native manifest (takes precedence)
 - `.claude-plugin/plugin.json` / `.augment-plugin/plugin.json` — identical
   copies for Claude Code and Augment Code
-- `commands/greet.md` — the `/greet` command: frontmatter `description` plus
+- `commands/greet.md` — the `/my-first-plugin:greet` command: frontmatter `description` plus
   the instruction text sent through the agent loop when the command runs
