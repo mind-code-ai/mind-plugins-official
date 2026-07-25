@@ -1,8 +1,6 @@
 # mind-plugins-official
 
-The official plugin marketplace for [Mind](https://mindcode.sh) — also
-installable from **Claude Code** and **Augment Code**, since every plugin here
-ships all three manifest conventions.
+The official plugin marketplace for [Mind](https://mindcode.sh)
 
 ## Install the marketplace
 
