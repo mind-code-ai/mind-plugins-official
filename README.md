@@ -6,9 +6,9 @@ The official plugin marketplace for [Mind](https://mindcode.sh)
 
 | Tool | Command |
 | --- | --- |
-| Mind | `/plugin marketplace add authninja-ai/mind-plugins-official` |
-| Claude Code | `/plugin marketplace add authninja-ai/mind-plugins-official` |
-| Augment Code | `/plugin marketplace add authninja-ai/mind-plugins-official` |
+| Mind | `/plugin marketplace add mind-code-ai/mind-plugins-official` |
+| Claude Code | `/plugin marketplace add mind-code-ai/mind-plugins-official` |
+| Augment Code | `/plugin marketplace add mind-code-ai/mind-plugins-official` |
 
 Then install any plugin listed below:
 
