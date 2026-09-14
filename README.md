@@ -27,6 +27,7 @@ Plugin commands are namespaced by plugin name — the example above adds:
 | Plugin | Description |
 | --- | --- |
 | [my-first-plugin](plugins/my-first-plugin) | A greeting plugin to learn the basics |
+| [fme](plugins/fme) | Author, edit and validate FME workspaces (.fmw), run jobs on FME Flow, and write PythonCaller scripts across FME versions |
 
 ## Plugin structure
 

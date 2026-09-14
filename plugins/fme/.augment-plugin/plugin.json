@@ -1,0 +1,8 @@
+{
+  "name": "fme",
+  "description": "Author, edit and validate FME workspaces (.fmw), run jobs on FME Flow, and write PythonCaller scripts across FME versions",
+  "version": "1.0.0",
+  "author": {
+    "name": "thebrightondev"
+  }
+}
