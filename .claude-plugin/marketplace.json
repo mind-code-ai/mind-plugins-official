@@ -9,6 +9,12 @@
       "source": "./plugins/my-first-plugin",
       "description": "A greeting plugin to learn the basics",
       "version": "1.0.0"
+    },
+    {
+      "name": "fme",
+      "source": "./plugins/fme",
+      "description": "Author, edit and validate FME workspaces (.fmw), run jobs on FME Flow, and write PythonCaller scripts across FME versions",
+      "version": "1.0.0"
     }
   ]
 }
