@@ -8,12 +8,26 @@
       "name": "my-first-plugin",
       "source": "./plugins/my-first-plugin",
       "description": "A greeting plugin to learn the basics",
+      "category": "Getting Started",
+      "keywords": [
+        "example",
+        "tutorial",
+        "slash-command"
+      ],
       "version": "1.0.0"
     },
     {
       "name": "fme",
       "source": "./plugins/fme",
       "description": "Author, edit and validate FME workspaces (.fmw), run jobs on FME Flow, and write PythonCaller scripts across FME versions",
+      "category": "Data & Analytics",
+      "keywords": [
+        "fme",
+        "etl",
+        "data-integration",
+        "gis",
+        "python"
+      ],
       "version": "1.0.0"
     }
   ]
