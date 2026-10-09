@@ -8,8 +8,8 @@ headlines.
 ## Install
 
 ```
-/plugin marketplace add mind-code-ai/mind-plugins-official
-/plugin install mindcode@mind-plugins-official
+/plugin marketplace add mind-code-ai/mindcode-plugins-official
+/plugin install mindcode@mindcode-plugins-official
 ```
 
 ## Skills
