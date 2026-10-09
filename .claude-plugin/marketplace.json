@@ -31,8 +31,8 @@
       "version": "1.0.0"
     },
     {
-      "name": "mind-copywriting",
-      "source": "./plugins/mind-copywriting",
+      "name": "mindcode",
+      "source": "./plugins/mindcode",
       "description": "Write, edit and de-AI marketing copy: page copy, line-by-line editing, humanizing AI-sounding text, and classic advertising principles",
       "category": "Marketing",
       "keywords": [
