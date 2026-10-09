@@ -8,8 +8,8 @@ across FME versions.
 ## Install
 
 ```
-/plugin marketplace add mind-code-ai/mind-plugins-official
-/plugin install fme@mind-plugins-official
+/plugin marketplace add mind-code-ai/mindcode-plugins-official
+/plugin install fme@mindcode-plugins-official
 ```
 
 ## Skills

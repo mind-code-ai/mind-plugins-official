@@ -1,5 +1,5 @@
 {
-  "name": "mind-plugins-official",
+  "name": "mindcode-plugins-official",
   "owner": { "name": "thebrightondev" },
   "description": "Official plugin marketplace for Mind — compatible with Claude Code and Augment Code",
   "version": "0.1.0",

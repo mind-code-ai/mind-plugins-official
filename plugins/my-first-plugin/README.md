@@ -4,7 +4,7 @@ The smallest useful plugin: one slash command, three one-line manifests.
 Use it as the template for your own plugins.
 
 ```
-/plugin install my-first-plugin@mind-plugins-official
+/plugin install my-first-plugin@mindcode-plugins-official
 /my-first-plugin:greet Ada
 ```
 
