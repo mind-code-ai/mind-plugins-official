@@ -28,6 +28,7 @@ Plugin commands are namespaced by plugin name — the example above adds:
 | --- | --- |
 | [my-first-plugin](plugins/my-first-plugin) | A greeting plugin to learn the basics |
 | [fme](plugins/fme) | Author, edit and validate FME workspaces (.fmw), run jobs on FME Flow, and write PythonCaller scripts across FME versions |
+| [mindcode](plugins/mindcode) | Write, edit and de-AI marketing copy: page copy, line-by-line editing, humanizing AI-sounding text, and classic advertising principles |
 
 ## Plugin structure
 
