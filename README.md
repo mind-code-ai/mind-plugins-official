@@ -1,4 +1,4 @@
-# mind-plugins-official
+# mindcode-plugins-official
 
 The official plugin marketplace for [Mind](https://mindcode.sh)
 
@@ -6,14 +6,14 @@ The official plugin marketplace for [Mind](https://mindcode.sh)
 
 | Tool | Command |
 | --- | --- |
-| Mind | `/plugin marketplace add mind-code-ai/mind-plugins-official` |
-| Claude Code | `/plugin marketplace add mind-code-ai/mind-plugins-official` |
-| Augment Code | `/plugin marketplace add mind-code-ai/mind-plugins-official` |
+| Mind | `/plugin marketplace add mind-code-ai/mindcode-plugins-official` |
+| Claude Code | `/plugin marketplace add mind-code-ai/mindcode-plugins-official` |
+| Augment Code | `/plugin marketplace add mind-code-ai/mindcode-plugins-official` |
 
 Then install any plugin listed below:
 
 ```
-/plugin install my-first-plugin@mind-plugins-official
+/plugin install my-first-plugin@mindcode-plugins-official
 ```
 
 Plugin commands are namespaced by plugin name — the example above adds:
@@ -65,7 +65,7 @@ The marketplace itself is declared once per convention
 
 ```json
 {
-  "name": "mind-plugins-official",
+  "name": "mindcode-plugins-official",
   "owner": { "name": "thebrightondev" },
   "plugins": [
     { "name": "my-first-plugin", "source": "./plugins/my-first-plugin" }
