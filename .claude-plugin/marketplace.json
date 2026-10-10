@@ -5,8 +5,8 @@
   "version": "0.1.0",
   "plugins": [
     {
-      "name": "my-first-plugin",
-      "source": "./plugins/my-first-plugin",
+      "name": "butler",
+      "source": "./plugins/butler",
       "description": "A greeting plugin to learn the basics",
       "category": "Getting Started",
       "keywords": [
@@ -31,8 +31,8 @@
       "version": "1.0.0"
     },
     {
-      "name": "mindcode",
-      "source": "./plugins/mindcode",
+      "name": "marketing",
+      "source": "./plugins/marketing",
       "description": "Write, edit and de-AI marketing copy: page copy, line-by-line editing, humanizing AI-sounding text, and classic advertising principles",
       "category": "Marketing",
       "keywords": [

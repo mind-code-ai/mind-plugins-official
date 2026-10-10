@@ -13,22 +13,22 @@ The official plugin marketplace for [Mind](https://mindcode.sh)
 Then install any plugin listed below:
 
 ```
-/plugin install my-first-plugin@mindcode-plugins-official
+/plugin install butler@mindcode-plugins-official
 ```
 
 Plugin commands are namespaced by plugin name — the example above adds:
 
 ```
-/my-first-plugin:greet Ada
+/butler:greet Ada
 ```
 
 ## Plugins
 
 | Plugin | Description |
 | --- | --- |
-| [my-first-plugin](plugins/my-first-plugin) | A greeting plugin to learn the basics |
+| [butler](plugins/butler) | A greeting plugin to learn the basics |
 | [fme](plugins/fme) | Author, edit and validate FME workspaces (.fmw), run jobs on FME Flow, and write PythonCaller scripts across FME versions |
-| [mindcode](plugins/mindcode) | Write, edit and de-AI marketing copy: page copy, line-by-line editing, humanizing AI-sounding text, and classic advertising principles |
+| [marketing](plugins/marketing) | Write, edit and de-AI marketing copy: page copy, line-by-line editing, humanizing AI-sounding text, and classic advertising principles |
 
 ## Plugin structure
 
@@ -37,7 +37,7 @@ present. For cross-tool compatibility, plugins in this marketplace also carry
 `.claude-plugin/` and `.augment-plugin/` copies of the same manifest:
 
 ```
-my-first-plugin/
+butler/
 ├── .mind-plugin/plugin.json      # Mind (native, wins when present)
 ├── .claude-plugin/plugin.json    # Claude Code compatibility
 ├── .augment-plugin/plugin.json   # Augment Code compatibility
@@ -51,7 +51,7 @@ my-first-plugin/
 
 ```json
 {
-  "name": "my-first-plugin",
+  "name": "butler",
   "description": "A greeting plugin to learn the basics",
   "version": "1.0.0",
   "author": {
@@ -68,7 +68,7 @@ The marketplace itself is declared once per convention
   "name": "mindcode-plugins-official",
   "owner": { "name": "thebrightondev" },
   "plugins": [
-    { "name": "my-first-plugin", "source": "./plugins/my-first-plugin" }
+    { "name": "butler", "source": "./plugins/butler" }
   ]
 }
 ```

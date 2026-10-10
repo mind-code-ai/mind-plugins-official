@@ -1,5 +1,5 @@
 {
-  "name": "my-first-plugin",
+  "name": "butler",
   "description": "A greeting plugin to learn the basics",
   "version": "1.0.0",
   "author": {
